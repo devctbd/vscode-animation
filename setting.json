@@ -1,0 +1,20 @@
+{
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "workbench.colorTheme": "One Dark Pro Mix",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Fira Code",
+  "terminal.integrated.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.linkedEditing": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+
+  "editor.cursorSurroundingLines": 15,
+  "editor.cursorStyle": "line",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "smooth",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.fontSize": 16
+
+}
